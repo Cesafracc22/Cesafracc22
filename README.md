@@ -1,12 +1,13 @@
 <div align="center">
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Cesare%20Fraccaroli&fontSize=80&animation=fadeIn&fontAlignY=35&desc=MSc%20Artificial%20Intelligence%20@%20UNIVR&descAlignY=60&descAlign=50" />
+</div>
 
-# 🤖 Cesare Fraccaroli
-### MSc Artificial Intelligence Student @ UNIVR
-
-### High Scool professor in Informatics
+---
 
 <p align="center">
-  <i>Designing state-of-the-art ML models, optimizing NLP pipelines, and exploring Computer Vision.</i>
+  <i>Designing state-of-the-art ML & DL models, optimizing NLP pipelines, and exploring Computer Vision.</i>
 </p>
 
 <p align="center">
@@ -27,10 +28,7 @@
 - **Natural Language Processing:** Large Language Model (LLM) fine-tuning and tokenization strategies.
 - **Computer Vision:** Advanced object detection and latent space representation.
 
----
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="850" />
-</div>
+
 
 ---
 ### 🛠️ Technical Stack
@@ -44,6 +42,12 @@
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
 
+</div>
+
+---
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="850" />
 </div>
 
 ---
