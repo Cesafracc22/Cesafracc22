@@ -63,7 +63,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/cesafracc22/cesafracc22/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="850" />
+</div>
 ### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cesafracc22&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
