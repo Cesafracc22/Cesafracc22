@@ -48,11 +48,12 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesafracc22&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesafracc22&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css" height="160" alt="languages graph" />
-</a>
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cesafracc22&theme=radical" alt="Profile Details" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesafracc22&theme=radical" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesafracc22&theme=radical" alt="Most Commits" />
+</div>
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesafracc22&theme=radical&hide_border=true" alt="streak graph" />
